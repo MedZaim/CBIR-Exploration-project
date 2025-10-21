@@ -6,7 +6,7 @@
 **Mohamed ZAIM**  
 Master’s Student in **MLAIM (Master : Machine Learning Avancée et Intelligence Multimédia)**  
 Faculté des Sciences Dhar El Mahraz (FSDM), Université Sidi Mohamed Ben Abdellah (USMBA), Fès, Morocco  
-Full-Stack Developer | AI & Intelligent Systems
+Full-Stack Developer | AI & Intelligent Systems 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaim-a68a602bb/)
 
 
