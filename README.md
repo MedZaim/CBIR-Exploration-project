@@ -6,6 +6,7 @@
 **Mohamed ZAIM**  
 Master’s Student in **MLAIM (Master : Machine Learning Avancée et Intelligence Multimédia)**  
 Faculté des Sciences Dhar El Mahraz (FSDM), Université Sidi Mohamed Ben Abdellah (USMBA), Fès, Morocco  
+Full-Stack Developer | AI & Intelligent Systems
 📫 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaim-a68a602bb/)
 
 
@@ -40,7 +41,7 @@ The system is implemented in **Python** using: `OpenCV`, `scikit-image`, `NumPy`
 CBIR-Exploration-Project/
 │
 ├── CBIR_System.ipynb            # Jupyter Notebook with full code
-├── CBIR_DataSet/                # Dataset images (CBIR_DataSet folder)
+├── CBIR_DataSet/obj_decoys/     # Dataset images (CBIR_DataSet folder)
 ├── CBIR_DataSet/img_requetes/   # Query images to test retrieval
 ├── results/                     # Optional: store example retrieval outputs
 └── README.md                    # Project documentation
