@@ -37,13 +37,13 @@ The system is implemented in **Python** using: `OpenCV`, `scikit-image`, `NumPy`
 ## 🗂️ Project Structure
 
 ```
-CBIR_Project/
+CBIR-Exploration-Project/
 │
-├── CBIR_System.ipynb       # Jupyter Notebook with full code
-├── dataset/                # Dataset images (CBIR_DataSet folder)
-├── img_requetes/           # Query images to test retrieval
-├── results/                # Optional: store example retrieval outputs
-└── README.md               # Project documentation
+├── CBIR_System.ipynb            # Jupyter Notebook with full code
+├── CBIR_DataSet/                # Dataset images (CBIR_DataSet folder)
+├── CBIR_DataSet/img_requetes/   # Query images to test retrieval
+├── results/                     # Optional: store example retrieval outputs
+└── README.md                    # Project documentation
 ```
 
 ## ⚙️ How to Run
@@ -52,7 +52,7 @@ CBIR_Project/
 2. Mount your Google Drive and set the paths to the dataset:
 
 ```python
-dataset_folder = "/content/drive/MyDrive/CBIR_DataSet"
+dataset_folder = "/content/drive/MyDrive/CBIR_DataSet/obj_decoys"
 query_folder = "/content/drive/MyDrive/CBIR_DataSet/img_requetes"
 ```
 
