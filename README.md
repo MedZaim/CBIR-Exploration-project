@@ -1,8 +1,14 @@
 
 # 🔍 Content-Based Image Retrieval (CBIR) System
 
-**Prepared by:** Mohamed ZAIM
-**Master’s Student in MLAIM (Methods for Learning, AI, and Intelligent Systems)**
+## 🧑‍💻 Author
+
+**Mohamed ZAIM**  
+Master’s Student in **MLAIM (Master in Machine Learning Avancée et Intelligence Multimédia)**  
+Faculté des Sciences Dhar El Mahraz (FSDM), Université Sidi Mohamed Ben Abdellah (USMBA), Fès, Morocco  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaim-a68a602bb/)
+
+
 
 This project focuses on building a **Content-Based Image Retrieval (CBIR)** system that retrieves images similar to a query image based on **visual content**. The system extracts and combines multiple **image features** and evaluates its robustness under **geometric transformations**.
 
