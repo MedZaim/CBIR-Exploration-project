@@ -67,13 +67,7 @@ query_folder = "/content/drive/MyDrive/CBIR_DataSet/img_requetes"
 - **Texture features (GLCM)** are robust to small geometric changes.
 - **Hu Moments** are invariant to rotation and scale, making shape features robust.
 - Combining all features gives the **best performance and robustness**.
-
-## 🧑‍💻 Author
-
-**Mohamed ZAIM**
-Master’s Student in MLAIM – FSDM
-Full-Stack Developer | AI & Intelligent Systems
-📫 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-zaim/)
+- The system successfully retrieves similar images even after applying transformations like rotation, scaling, and flipping.
 
 ## 🏷️ Keywords
 
